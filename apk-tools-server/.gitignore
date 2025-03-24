@@ -1,7 +1,7 @@
 node_modules
 dist
 package-lock.json
-tools/reconizerx/input
-tools/reconizerx/output
-tools/secureapk/input
-tools/secureapk/output
+tools/reconizerx/input/*
+tools/reconizerx/output/*
+tools/secureapk/input/*
+tools/secureapk/output/*
